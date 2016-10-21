@@ -1,0 +1,260 @@
+Lecture 1: The Nature and Scope of Psychology
+Questions to think about:
+	1. What is a psychological explanation of behavior?
+	2. Why did psychology take so long to emerge as a science?
+	3. Why did personality and social psychology lag behind the study of perception, learning, and memory?
+	4. If you're a foreign student. How did psychology develop in your native country?
+
+William James (1842-1910)
+	. "Psychology is the science of mental life"
+	. from his point of view the goal of was to describe and explain the mental sctructure and processes that underlie human experience thought and action
+	. the task of psych is to explain how our mind works
+	. the science of mental life which tries to understand how the mind works
+
+A Short List of Mental Functions
+
+Immanuel Kant(1724-1804)
+	. 18th cen German philosopher
+	. "There are three absolute, irreducible faculties of mind: knowledge, feeling, and desire."
+	.  it is is by virtue of our minds that we acquire knowledge and experience emotions, moods, needs, and wants
+
+The Trilogy of Mind:
+
+Eernest Hilgard(1980)
+	. recasts Kant's idea
+	. the Trilogy of Mind:
+	. Cognition: knowledge and beliefs
+	. Emotion: affects, moods, and feelings
+	. Motivation: drives, needs, desires, goals, and purposes
+
+The Scope of Psychology:
+	.basic processes: how the mind works
+		.ie how we perceive objects, remember events, why we feel happy or sad, what happens when we are hungry etc...
+	.development: origins of mind
+		.the origins of the mind especially the development over year
+		.how does a child acquire mental faculty learned? innate?
+		.evolution of the mind
+		.relation between minds of human beings and those of other creatures
+		.question whether other creatures of minds to begin with?
+	.individual differences: individual organization of mental life
+		.ie intelligence, nature, nurture
+		.different traits, where those characeristics comes from and how they affect us
+	.pathology: disorders of mind and behavior
+		.disorder of mental functions, cognition, emotion, and motivation in many form of mental illness
+		.depression...
+	.applications of basic knowledge: education, psychotherapy, and workplace
+		.how we can us the knowledge to help teacher to teach students more effectively
+		.use knowledge to help prevent mental and physical illnesses
+		.help workers to become more adept and efficient and productivity between workers, work, and supervisors
+
+The Doctrine of Mentalism/Mental Causation
+	. Mental States are to Action as Cause to Effect
+	.psych assume that what we do, how we behave is determined by what we were thinking, feeling, and desired at the time that that behavior takes place
+	.always concern the behavior of a single indiv, explan. is always considred in that indiv's state of mind
+
+Example Behavior: a person commits suicide
+.Cognitive Explanation: 	
+	.knowledge, beliefs
+	.he believed he was worthless
+.Emotional Explanation:
+	.affects, moods, and feelings
+	.he felt depressed
+.Motivational Explanation:
+	.drives, needs, goals
+	.he no longer wanted to live 
+.Psychological explanation of behavior always explain an individual's action by invoking his/her mental states
+.psychology tries to understand how those 3 are related and affects a person's mind
+
+Levels of Explanation
+	.Sociocultural <-> Psychological <-> Biophysical
+	.no one level is superior than the others
+
+Psychology as a Social Science
+	the individual in society
+
+	.Social Interaction
+		.cooperation, competition
+		.need to understand social context between humans to understand how our minds are affected and how they work
+	.Social Influence
+		.individuals, groups
+		.how it is that people relate to each other in everyday
+		.how an individual can affect a group that he/she is a part of 
+	.Social Cognition
+		.how it is that people relate o each other in the course of everyday living
+		.how we make judgment about other people
+		.how do we feel about the things that happen around ourselves
+	.Personality
+		.indiv differences
+		.organization of individual lives
+
+Psychology vs Social Psychology = Mind in the Abstract vs Mind in Action  
+
+Psychology as a Biological Science
+	The brain is the physical basis of the mind
+.the intent to question how our mind works naturally lead to the interest in how the physical structure, the brain, that causes it
+	.Neuroscience
+		.neuroanatomy, neurophysiology
+		.brain is composed of cells called neurons that transfer information and tell other cells to do things
+		.we want to learn about how that helps the cells communicate with each other 
+	.Other Bodily Systems
+		.Endocrine System
+		.Immune System
+		.how the nervous system can influence the immune system
+	.Molecular and Cellular Biology
+	.Genetics
+	.Evolutionary Biology
+	.Ecology
+		.concern with a specie's adaptation to its environment
+
+Psychology as a Physical Science
+	The Brain is an electrochemical system
+	.Psychophysics
+		.physical stimuli vs psychological state
+	.brain imaging
+		.positron emission tomography
+		.magnetic resonance imaging(MRI): allowed them to see the brain at works when subject engages in daily activities
+		.magnetoencephalography
+
+The Question of Reductionism
+. can principles of psychology be reduced to the principles of physics?
+. explain behavior solely in terms of electrical chimcal activities
+. still topic of debate
+
+Emest Rutherford(1871-1937)
+	."There is only one science, and it is physics; all the rest is stamp collecting"
+
+Levels of Explanation:
+	.we neither favors nor reject reductionism
+
+	.Psychological Explanations: interms of cognition, emotion, motivation
+		.individual mental states
+	.Sociocultural Explanation: interms of socio-cultural structures, practices
+		.group membership, institutional roles
+	.Biophysical explanations: in terms of neurotransmitters, genes, hormones
+		.biological, physical structures, procedures
+
+History of Psychology:
+"Psychology Has a Long Past, but Only a Short History" Herman von Ebbinghaus
+.16th-.17th "Study of Soul" or "Spirits"
+	.Greek Psycho, "Soul or "Mind"
+	.Latin Logia, "Study"
+.Christian Wolff
+	.Psychologia Empirica(1732)
+	.Psychologia Rationalis(1734)
+.David Hartley: Observations on Man(1749)
+	."Psychology, or the Theory of the Human Mind"
+.analysis on how the mind works were based on philosophical methods such as introspection, reasoning, and logical inference
+
+Psychology as an Impossible Science
+.at this time, psych is a legitamte field but is part of humanity, not science! Thought it never can be a science!
+
+Rene Descartes(1596-1650)
+	.Substance Dualism
+		.Material Body
+		.Immaterial Mind
+		.body and mind are two composed of separate things
+	.view prevail for the next 100 years
+
+Immanuel Kant:
+	.argue that psych could never become a fullfledged science
+	.Science Based on Measurement
+		.immaterial substances cannot be measured...
+.thus during the Enlightenment, psychology was ruled out 
+
+The Emergence of Scientific Psychology
+	.Psychophysics
+		.Weber(1830) andFechner(1860)
+		.asked their subjects to assign numbers to the intensity of their sensory experiences
+		.then link those numbers to various physical measurements
+	.Physiological Psychology
+		.Muller(1833-1840)
+			.link what goes on in the mind with what goes on in thebody
+			.Doctrine of Specific Nerve Energies
+		.Helmholtz(1856-1867)
+			.Physiological Optics
+			.linking perceptual experiences to both physics and physiology
+			.Reaction Time
+				.Speed of Neural Impulse(Helmholtz, 1850)
+				.Speed of Mental Processes(Donders, 1868)
+	.by quantifying reports of sensory experiences and by measuring the speed of mental processes, showed that mind could be measured after all
+
+First Laboratories:
+	.Leipzig (Wundt, 1875-1879)
+	.in the US
+		.Johns Hopkins(Hall, 1883)
+		.Pennsylvania(Cattell, 1888)
+		.Wisconsin(Jastrow, 1888)
+		.Harvard(James, 1875;Munsterberg, 1891)
+
+First Textbooks:
+	.Wundt: The Foundations of Physiological Psychology(1873-4)
+	.James: 
+		.Principles of Psychology(1890)
+		.Psychology:Briefer Course(1892)
+
+First American PhDs
+	.G Stanley Hall, Harvard (in Phiolosophy)
+		-James 1878
+	.Joseph Jastrow, Hopkins (in Psychology)
+		-Peirce, 1884
+	.James McKeen Cattell, Leipzig(in Psychology)
+		-Wundt, 1886
+
+First Journals
+	.Philosophische Studien
+		-Wundt, 1881
+	.American Journal of Psychology
+		-Hall, 1887
+	.Psychological Review
+		-Baldwin & Cattell, 1894
+
+Two Kinds of Science, Two Kinds of Psychology (Wundt 1900)
+	.Naturwissenschaft vs Geisteswissenschaft
+		.(science of nature vs science of spirit(higher mental processes))
+	.experimental psychology had to be limited to basic mental functions such as sensation and perception, the rest of psyc can only be analyze in a more observational/historical way
+	.Volkerpsychologie (Folk Psych)
+
+From "Immediate Experience" to "Higher Mental Processes"
+	.Memory
+		-Ebbinghaus(1885)
+		.figured out how to measure strength of a memory
+	.Learning
+		-Pavlov(1898) and Thorndike(1898)
+		.pioneered the study of learning in animals
+		.classical and instrumental conditioning paradigm
+	.Thinking
+		-Hull(1920)
+		.demonstrate that higher mental processes beyond memory can be studied quantitatively
+
+And Beyond
+	.Emotion and Motivation
+		-Cannon(1915)
+		.relating human conditions fear and hunger to bodily processes
+	.Psychopathology
+		-Kraepelin(1890s)
+		-Jung(1919)
+		-Shakow(1930s)
+
+Individual Differences
+	.Personal Equation (Bessel, 1820)
+	.Mental Measurement(Galton, 1883)
+		.Regression, Correlation(1886)
+	.Intelligence(Binet & Simon, 1905)
+		.Terman(1916), Wechsler(1939)
+
+Personality and Attitudes
+	.Personality Measuremet
+		-Woodworth Personal Data Sheet(1917)
+		-Bernreuter Personality Inventory(1931)
+	.Attitude Measurement
+		-Thurstone & Chave(1929)
+		-Likert(1932)
+
+Completing the Circle
+	.Experimental Social Psychology
+		-Triplett(1898)
+		-Sherif(1935)
+	.Experimental Personality Research
+		-Shakow(1930s)
+		-Murray et al. (1938)
+?
